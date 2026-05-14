@@ -111,8 +111,9 @@ https://datastudio.google.com/reporting/99b7bd14-71f5-464a-85c7-fde33c96104d
 
 ## Dashboard
 
-![Dashboard](imagens/dashboard.png)
-
+![Gráfico 1](imagens/Grafico01.png)
+![Gráfico 2](imagens/Grafico02.png)
+![Gráfico 3](imagens/Grafico03.png)
 
 
 ## Autor
